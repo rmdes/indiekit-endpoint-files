@@ -9,7 +9,7 @@
       "action": "Delete file",
       "title": "Are you sure you want to delete this file?",
       "note": "It may still be accessible or recoverable from your content store (%s).",
-      "submit": "I’m sure – delete this file",
+      "submit": "I'm sure – delete this file",
       "cancel": "No – return to file"
     },
     "file": {
@@ -23,7 +23,10 @@
     "title": "Files",
     "upload": {
       "action": "Upload file",
-      "title": "Upload a new file"
+      "title": "Upload files",
+      "dropText": "Drag files here or",
+      "browse": "Browse files",
+      "submitMultiple": "Upload files"
     },
     "form": {
       "submit": "Upload",
