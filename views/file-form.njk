@@ -165,7 +165,7 @@
             reject(new Error('Network error'));
           });
 
-          xhr.open('POST', endpoint);
+          xhr.open('POST', window.location.pathname);
           xhr.setRequestHeader('Accept', 'application/json');
           xhr.send(formData);
         });
