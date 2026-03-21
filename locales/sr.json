@@ -30,7 +30,10 @@
     "title": "Datoteke",
     "upload": {
       "action": "Otpremi datoteku",
-      "title": "Otpremite novu datoteku"
+      "title": "Otpremite novu datoteku",
+      "browse": "Pregledaj datoteke",
+      "dropText": "Prevucite datoteke ovde ili",
+      "submitMultiple": "Otpremi datoteke"
     }
   }
 }

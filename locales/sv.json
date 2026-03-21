@@ -30,7 +30,10 @@
     "title": "Filer",
     "upload": {
       "action": "Ladda upp fil",
-      "title": "Ladda upp en ny fil"
+      "title": "Ladda upp en ny fil",
+      "browse": "Bläddra bland filer",
+      "dropText": "Dra filer hit eller",
+      "submitMultiple": "Ladda upp filer"
     }
   }
 }

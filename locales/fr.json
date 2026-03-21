@@ -30,7 +30,10 @@
     "title": "Fichiers",
     "upload": {
       "action": "Téléverser un fichier",
-      "title": "Téléverser un nouveau fichier"
+      "title": "Téléverser un nouveau fichier",
+      "browse": "Parcourir les fichiers",
+      "dropText": "Glissez des fichiers ici ou",
+      "submitMultiple": "Téléverser les fichiers"
     }
   }
 }

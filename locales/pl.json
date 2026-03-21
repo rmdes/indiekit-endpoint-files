@@ -30,7 +30,10 @@
     "title": "Pliki",
     "upload": {
       "action": "Przesyłanie pliku",
-      "title": "Prześlij nowy plik"
+      "title": "Prześlij nowy plik",
+      "browse": "Przeglądaj pliki",
+      "dropText": "Przeciągnij pliki tutaj lub",
+      "submitMultiple": "Prześlij pliki"
     }
   }
 }

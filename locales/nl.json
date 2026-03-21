@@ -30,7 +30,10 @@
     "title": "Bestanden",
     "upload": {
       "action": "Upload bestand",
-      "title": "Upload een nieuw bestand"
+      "title": "Upload een nieuw bestand",
+      "browse": "Bestanden zoeken",
+      "dropText": "Sleep bestanden hierheen of",
+      "submitMultiple": "Bestanden uploaden"
     }
   }
 }

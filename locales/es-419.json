@@ -30,7 +30,10 @@
     "title": "Archivos",
     "upload": {
       "action": "Cargar archivo",
-      "title": "Cargar un archivo nuevo"
+      "title": "Cargar un archivo nuevo",
+      "browse": "Explorar archivos",
+      "dropText": "Arrastre archivos aquí o",
+      "submitMultiple": "Cargar archivos"
     }
   }
 }
