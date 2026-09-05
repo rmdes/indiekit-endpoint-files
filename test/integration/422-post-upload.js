@@ -20,7 +20,7 @@ describe("endpoint-files POST /posts/create", () => {
     assert.equal(response.status, 422);
     assert.equal(
       result.querySelector("title").textContent,
-      "Error: Upload a new file - Test configuration",
+      "Error: Upload files - Test configuration",
     );
     assert.equal(
       result.querySelector("#file-error .error-message__text").textContent,

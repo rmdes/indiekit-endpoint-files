@@ -12,6 +12,12 @@
     {# Drop zone #}
     <div class="multi-upload__drop-zone"
          :class="{ 'multi-upload__drop-zone--active': dragover }">
+      {% if fieldData("file").errorMessage %}
+        <p class="error-message" id="file-error">
+          <span class="-!-visually-hidden">{{ __("error") }}:</span>
+          <span class="error-message__text">{{ fieldData("file").errorMessage.text }}</span>
+        </p>
+      {% endif %}
       <p class="multi-upload__drop-text">{{ __("files.upload.dropText") }}</p>
       <label class="multi-upload__browse button button--secondary">
         {{ __("files.upload.browse") }}

@@ -17,7 +17,7 @@ describe("endpoint-files GET /files/:uid/delete", () => {
     const dom = new JSDOM(response.text);
     const result = dom.window.document.querySelector("title").textContent;
 
-    assert.equal(result, "Upload a new file - Test configuration");
+    assert.equal(result, "Upload files - Test configuration");
   });
 
   after(() => server.close());
