@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "engines": {
-    "node": ">=20"
+    "node": ">=24.17"
   },
   "type": "module",
   "main": "index.js",
@@ -39,9 +39,9 @@
     "url": "https://github.com/rmdes/indiekit-endpoint-files.git"
   },
   "dependencies": {
-    "@indiekit/error": "^1.0.0-beta.27",
-    "express": "^5.0.0",
-    "express-validator": "^7.0.0"
+    "@indiekit/error": "^1.0.0-beta.28",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2"
   },
   "publishConfig": {
     "access": "public"
