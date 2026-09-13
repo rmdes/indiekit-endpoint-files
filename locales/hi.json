@@ -33,7 +33,9 @@
       "title": "एक नई फ़ाइल अपलोड करें",
       "browse": "फ़ाइलें ब्राउज़ करें",
       "dropText": "फ़ाइलें यहाँ खींचें या",
-      "submitMultiple": "फ़ाइलें अपलोड करें"
+      "submitMultiple": "फ़ाइलें अपलोड करें",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

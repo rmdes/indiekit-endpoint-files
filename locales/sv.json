@@ -33,7 +33,9 @@
       "title": "Ladda upp en ny fil",
       "browse": "Bläddra bland filer",
       "dropText": "Dra filer hit eller",
-      "submitMultiple": "Ladda upp filer"
+      "submitMultiple": "Ladda upp filer",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

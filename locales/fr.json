@@ -33,7 +33,9 @@
       "title": "Téléverser un nouveau fichier",
       "browse": "Parcourir les fichiers",
       "dropText": "Glissez des fichiers ici ou",
-      "submitMultiple": "Téléverser les fichiers"
+      "submitMultiple": "Téléverser les fichiers",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

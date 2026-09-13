@@ -33,7 +33,9 @@
       "title": "Carica un nuovo file",
       "browse": "Sfoglia file",
       "dropText": "Trascina i file qui o",
-      "submitMultiple": "Carica file"
+      "submitMultiple": "Carica file",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

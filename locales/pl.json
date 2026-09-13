@@ -33,7 +33,9 @@
       "title": "Prześlij nowy plik",
       "browse": "Przeglądaj pliki",
       "dropText": "Przeciągnij pliki tutaj lub",
-      "submitMultiple": "Prześlij pliki"
+      "submitMultiple": "Prześlij pliki",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

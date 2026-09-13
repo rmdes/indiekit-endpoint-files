@@ -33,7 +33,9 @@
       "title": "Unggah file baru",
       "browse": "Telusuri file",
       "dropText": "Seret file ke sini atau",
-      "submitMultiple": "Unggah file"
+      "submitMultiple": "Unggah file",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

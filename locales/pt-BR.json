@@ -33,7 +33,9 @@
       "title": "Carregar um novo arquivo",
       "browse": "Procurar arquivos",
       "dropText": "Arraste arquivos aqui ou",
-      "submitMultiple": "Carregar arquivos"
+      "submitMultiple": "Carregar arquivos",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

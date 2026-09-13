@@ -33,7 +33,9 @@
       "title": "Otpremite novu datoteku",
       "browse": "Pregledaj datoteke",
       "dropText": "Prevucite datoteke ovde ili",
-      "submitMultiple": "Otpremi datoteke"
+      "submitMultiple": "Otpremi datoteke",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

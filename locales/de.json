@@ -33,7 +33,9 @@
       "title": "Laden Sie eine neue Datei hoch",
       "browse": "Dateien durchsuchen",
       "dropText": "Dateien hierher ziehen oder",
-      "submitMultiple": "Dateien hochladen"
+      "submitMultiple": "Dateien hochladen",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

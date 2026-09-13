@@ -33,7 +33,9 @@
       "title": "Upload een nieuw bestand",
       "browse": "Bestanden zoeken",
       "dropText": "Sleep bestanden hierheen of",
-      "submitMultiple": "Bestanden uploaden"
+      "submitMultiple": "Bestanden uploaden",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }

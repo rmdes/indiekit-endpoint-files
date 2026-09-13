@@ -33,7 +33,9 @@
       "title": "上传新文件",
       "browse": "浏览文件",
       "dropText": "将文件拖到此处或",
-      "submitMultiple": "上传文件"
+      "submitMultiple": "上传文件",
+      "success": "%s files uploaded",
+      "partial": "%s of %s files uploaded"
     }
   }
 }
