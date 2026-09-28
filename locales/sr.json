@@ -30,12 +30,9 @@
     "title": "Datoteke",
     "upload": {
       "action": "Otpremi datoteku",
-      "title": "Otpremite novu datoteku",
-      "browse": "Pregledaj datoteke",
-      "dropText": "Prevucite datoteke ovde ili",
-      "submitMultiple": "Otpremi datoteke",
-      "success": "%s files uploaded",
-      "partial": "%s of %s files uploaded"
+      "partial": "Otpremljeno %s od %s datoteka",
+      "success": "%s datoteka otpremljeno",
+      "title": "Otpremite novu datoteku"
     }
   }
 }

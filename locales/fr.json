@@ -30,12 +30,9 @@
     "title": "Fichiers",
     "upload": {
       "action": "Téléverser un fichier",
-      "title": "Téléverser un nouveau fichier",
-      "browse": "Parcourir les fichiers",
-      "dropText": "Glissez des fichiers ici ou",
-      "submitMultiple": "Téléverser les fichiers",
-      "success": "%s files uploaded",
-      "partial": "%s of %s files uploaded"
+      "partial": "%s fichiers sur %s téléversé",
+      "success": "%s fichiers téléversé",
+      "title": "Téléverser un nouveau fichier"
     }
   }
 }

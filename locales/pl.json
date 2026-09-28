@@ -30,12 +30,9 @@
     "title": "Pliki",
     "upload": {
       "action": "Przesyłanie pliku",
-      "title": "Prześlij nowy plik",
-      "browse": "Przeglądaj pliki",
-      "dropText": "Przeciągnij pliki tutaj lub",
-      "submitMultiple": "Prześlij pliki",
-      "success": "%s files uploaded",
-      "partial": "%s of %s files uploaded"
+      "partial": "Przesłano %s z %s plików",
+      "success": "Przesłano %s plików",
+      "title": "Prześlij nowy plik"
     }
   }
 }

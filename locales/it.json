@@ -30,12 +30,9 @@
     "title": "File",
     "upload": {
       "action": "Carica file",
-      "title": "Carica un nuovo file",
-      "browse": "Sfoglia file",
-      "dropText": "Trascina i file qui o",
-      "submitMultiple": "Carica file",
-      "success": "%s files uploaded",
-      "partial": "%s of %s files uploaded"
+      "partial": "%s di %s file caricati",
+      "success": "%s file caricati",
+      "title": "Carica un nuovo file"
     }
   }
 }

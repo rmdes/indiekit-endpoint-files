@@ -30,12 +30,9 @@
     "title": "文件",
     "upload": {
       "action": "上传文件",
-      "title": "上传新文件",
-      "browse": "浏览文件",
-      "dropText": "将文件拖到此处或",
-      "submitMultiple": "上传文件",
-      "success": "%s files uploaded",
-      "partial": "%s of %s files uploaded"
+      "partial": "已上传 %s 个文件（共 %s 个）",
+      "success": "已上传 %s 个文件",
+      "title": "上传新文件"
     }
   }
 }

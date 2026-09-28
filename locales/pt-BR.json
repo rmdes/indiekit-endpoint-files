@@ -30,12 +30,9 @@
     "title": "Arquivos",
     "upload": {
       "action": "Carregar arquivo",
-      "title": "Carregar um novo arquivo",
-      "browse": "Procurar arquivos",
-      "dropText": "Arraste arquivos aqui ou",
-      "submitMultiple": "Carregar arquivos",
-      "success": "%s files uploaded",
-      "partial": "%s of %s files uploaded"
+      "partial": "%s de %s arquivos carregados",
+      "success": "%s arquivos carregados",
+      "title": "Carregar um novo arquivo"
     }
   }
 }

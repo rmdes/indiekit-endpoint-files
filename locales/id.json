@@ -30,12 +30,9 @@
     "title": "File",
     "upload": {
       "action": "Unggah berkas",
-      "title": "Unggah file baru",
-      "browse": "Telusuri file",
-      "dropText": "Seret file ke sini atau",
-      "submitMultiple": "Unggah file",
-      "success": "%s files uploaded",
-      "partial": "%s of %s files uploaded"
+      "partial": "%s dari %s file telah diunggah",
+      "success": "%s file diunggah",
+      "title": "Unggah file baru"
     }
   }
 }

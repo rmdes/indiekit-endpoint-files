@@ -30,12 +30,9 @@
     "title": "Bestanden",
     "upload": {
       "action": "Upload bestand",
-      "title": "Upload een nieuw bestand",
-      "browse": "Bestanden zoeken",
-      "dropText": "Sleep bestanden hierheen of",
-      "submitMultiple": "Bestanden uploaden",
-      "success": "%s files uploaded",
-      "partial": "%s of %s files uploaded"
+      "partial": "%s van de %s bestanden geüpload",
+      "success": "%s bestanden geüpload",
+      "title": "Upload een nieuw bestand"
     }
   }
 }
